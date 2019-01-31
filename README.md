@@ -1,7 +1,10 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
-## Домашнее задание 13 docker-2
+## Домашнее задание 13 
+
+Homework docker-2
+
     - cоздан новый проект в gcloud
     - настроена аутентификация gce sdk в новом проекте
     - установлена и настроена docker-machine
