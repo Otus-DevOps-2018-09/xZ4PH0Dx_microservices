@@ -1,17 +1,6 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
-## Домашнее задание 16
-
-Homework gitlab-ci-1
-- создан экземпляр вм для установки докер-образа gitlab
-- добавлен и запущен контейнер gitlab-omnibus
-- произведена настройка gitlab через веб-интерфейс
-- на сервер gitlab добавлен проект
-- добавлен контейнер gitlab-runner
-- gitlab-runner зарегистрирован в проекте
-- добавлен тест simpletest.rb
-
 ## Домашнее задание 15
 
 Homework docker-4
