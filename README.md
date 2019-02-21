@@ -1,6 +1,13 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 18
+
+Homework monitoring-1
+- Prometheus: запуск, конфигурация, знакомство с Web UI
+- Мониторинг состояния микросервисов 
+- Сбор метрик хоста с использованием экспортера
+
 ## Домашнее задание 17
 
 Homework gitlab-ci-2
