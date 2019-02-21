@@ -1,6 +1,14 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 19
+
+Homework monitoring-2
+- Мониторинг Docker контейнеров
+- Визуализация метрик
+- Сбор метрик работы приложения и бизнес метрик
+- Настройка и проверка алертинга
+
 ## Домашнее задание 18
 
 Homework monitoring-1
