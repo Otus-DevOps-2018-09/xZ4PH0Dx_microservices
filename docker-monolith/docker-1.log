@@ -1,0 +1,11 @@
+REPOSITORY                 TAG                 IMAGE ID            CREATED              SIZE
+xz4ph0dx/ubuntu-tmp-file   latest              61cf485c303a        About a minute ago   115MB
+nginx                      latest              8b89e48b5f15        5 days ago           109MB
+ubuntu                     16.04               e13f3d529b1a        5 days ago           115MB
+
+docker inspect <image id>
+Print out information about read only layers
+
+docker inspect <container id>
+Print out information about read only layer and state.
+
