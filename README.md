@@ -1,6 +1,14 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 17
+
+Homework gitlab-ci-2
+- Добавлены окружения к задачам в пайплайнах
+- Добавлены фильтры по тэгам для задач, относящихся к stage и production окружениям
+- Добавлены динамические окружения
+
+
 ## Домашнее задание 16
 
 Homework gitlab-ci-1
