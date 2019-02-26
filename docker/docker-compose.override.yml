@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+  ui:
+    entrypoint: sh -c "[ -f ../src/ui/ui_app.rb ] && cp /post/ui_app.rb /app/; exec puma --debug -w 2"
+  post:
+    entrypoint: sh -c "[ -f ../src/post/post_app.py ] && cp /post/post_app.py /app/; exec python3 post_app.py"
+  comment:
+    entrypoint: sh -c "[ -f ../src/comment/comment_app.rb ] && cp /comment/comment_app.rb /app/; exec puma --debug -w 2"
