@@ -1,6 +1,13 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 25
+
+Homework kubernetes-25
+- запущен prometheus в kubernetes
+- настроен prometheus для сбора метрик
+- произведен экспорт трех дашборд
+
 ## Домашнее задание 24
 
 Homework kubernetes-4
