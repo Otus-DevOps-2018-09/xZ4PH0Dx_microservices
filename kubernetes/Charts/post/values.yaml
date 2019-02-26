@@ -1,0 +1,10 @@
+---
+service:
+  internalPort: 5000
+  externalPort: 5000
+
+image:
+  repository: z4ph0d/post
+  tag: latest
+
+databaseHost:
