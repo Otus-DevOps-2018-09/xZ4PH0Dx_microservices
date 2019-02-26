@@ -1,6 +1,13 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 23
+
+- определение сетевого взаимодействия с помощью Service (kube-dns, kubenet, nodePort, LoadBalancer, Ingress);
+- защита сервиса с помощью TLS (TLS Termination);
+- работа с Network Policy в GKE (определение доступов между сервисами);
+- работа с хранилищем для базы данных в GCE - reddit-mongo-disk.
+
 ## Домашнее задание 22
 
 Homeworkd kubernetes-2
