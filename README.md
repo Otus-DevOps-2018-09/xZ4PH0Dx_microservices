@@ -1,12 +1,23 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 22
+
+Homeworkd kubernetes-2
+- развернуто локальное окружение kubernetes: minikube, kubectl;
+- приложение reddit запущено в локальном окружении (использованы deployments, services, namespaces);
+- знакомство с kubernetes dashboard;
+- развернут кластер в GKE;
+- запуск приложения reddit в кластере GKE;
+- запуск kubernetes dashboard в GKE;
+
 ## Домашнее задание 21
 
 Homework kubernetes-1
 - созданы манифесты в виде Deployment для сервисов приложения Reddit(ui,post, comment, mongo);
 - пройден туториал Kubernetes The Hard way;
 - на кластере, созданном в ходе прохождения туториала, запущены поды из манифестов.
+
 
 ## Домашнее задание 20
 
