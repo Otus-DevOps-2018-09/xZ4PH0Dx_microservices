@@ -1,8 +1,16 @@
 # xZ4PH0Dx_microservices
 xZ4PH0Dx microservices repository
 
+## Домашнее задание 24
+
+Homework kubernetes-4
+- разбор работы с Helm
+- запуск Gitlab в Kubernetes
+- запуск CI/CD pipeline в Kubernetes
+
 ## Домашнее задание 23
 
+Homerowk kubernetes-3
 - определение сетевого взаимодействия с помощью Service (kube-dns, kubenet, nodePort, LoadBalancer, Ingress);
 - защита сервиса с помощью TLS (TLS Termination);
 - работа с Network Policy в GKE (определение доступов между сервисами);
@@ -10,7 +18,7 @@ xZ4PH0Dx microservices repository
 
 ## Домашнее задание 22
 
-Homeworkd kubernetes-2
+Homework kubernetes-2
 - развернуто локальное окружение kubernetes: minikube, kubectl;
 - приложение reddit запущено в локальном окружении (использованы deployments, services, namespaces);
 - знакомство с kubernetes dashboard;
